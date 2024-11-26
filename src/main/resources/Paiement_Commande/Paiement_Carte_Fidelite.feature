@@ -1,0 +1,1 @@
+Feature: Validation de commande avec paiement par carte de fidélité
